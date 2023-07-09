@@ -1,1 +1,1 @@
-# CryptoFaucet
+Web 3 dApp to connect with crypto wallet MetaMask
